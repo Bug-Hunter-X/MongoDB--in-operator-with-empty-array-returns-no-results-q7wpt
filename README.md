@@ -1,0 +1,1 @@
+This repository demonstrates a common MongoDB query error: using the `$in` operator with an empty array.  The provided code shows the incorrect usage and the correct solutions depending on whether you need to match documents with an existing or missing field. The solutions handle cases where documents might have a missing field or a field with an empty array.
